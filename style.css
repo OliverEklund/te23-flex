@@ -28,3 +28,13 @@ body {
     display: none;
   }
 }
+.d-flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+main.d-flex {
+  display: flex;
+  background-color: green;
+}
